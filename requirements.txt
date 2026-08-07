@@ -1,0 +1,14 @@
+langchain
+langchain-community
+langgraph
+langchain_core
+langchain_openai
+langchain_groq
+python-dotenv
+faiss-cpu
+chromadb
+streamlit
+langchain_huggingface
+transformers
+tiktoken
+langchain_tavily
