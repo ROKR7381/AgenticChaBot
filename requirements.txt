@@ -9,6 +9,5 @@ faiss-cpu
 chromadb
 streamlit
 langchain_huggingface
-transformers
 tiktoken
 langchain_tavily
